@@ -1,2 +1,2 @@
 # Unity-ROLLER_MADNESS-game
-Its a 3D game, having roller ball move away from the enemy and also try to collect the coins to win the level.
+ROLLER-MADNESS is a 3D game. It has roller_ball as a player try to avoid any contact with enemy and also collects the coins to complete the level.
