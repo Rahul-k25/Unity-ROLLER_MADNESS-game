@@ -6,8 +6,8 @@ This Game is Built on Unity with the use of C#. This game comes under Arcade cat
 # At the start of the Game<br /><br />
 <img align='left' src="https://github.com/Rahul-k25/Unity-ROLLER_MADNESS-game/blob/master/RollerMadness/image/Screenshot%20(77)%20(1).png" width="100%">
 
-**Player can move the ball around the surface,<br /> collect coins and <br />enemy box will chase to player till completion of game or game over**
+**<br /><br />Player can move the ball around the surface,<br /> collect coins and <br />enemy box will chase to player till completion of game or game over**<br />
 <img align='left' src="https://github.com/Rahul-k25/Unity-ROLLER_MADNESS-game/blob/master/RollerMadness/image/Screenshot%20(78)%20(1).png" width="100%">
 
-**Player falling from the floating Surface into lava**
+**<br /><br />Player falling from the floating Surface into lava**
 <img align='left' src="https://github.com/Rahul-k25/Unity-ROLLER_MADNESS-game/blob/master/RollerMadness/image/Screenshot%20(79).png" width="100%">
